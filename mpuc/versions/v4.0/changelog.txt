@@ -12,24 +12,36 @@ Mods
 
   ⭕ Updated
     - Armor Statues
+    - Better chunk loading
+    - Chat Heads
     - Collective
+    - Crafting Tweaks
     - Create Encased
     - CreativeCore
+    - Diagonal Fences
     - Easy Billagers
     - Easy Shulker Boxes
     - Embeddium
     - Friends & Foes
     - GeckoLib
+    - ImmediatelyFast
+    - Incendium
     - Jade Addons
     - Kotlin for Forge
     - Modern Fix
     - Modpack Update Checker
+    - NetherPortalFix
+    - Nullscape
     - Polymorph
     - Puzziles Lib
     - Resourceful Lib
     - Snow! Real Magic!
+    - Sound Physics Remastered
     - Straw Statues
+    - Structory
+    - Structory: Towers
     - SuperMartinjn642's Core Lib
+    - Terralith
     - Towns and Towers
 
   ❌ Removed
