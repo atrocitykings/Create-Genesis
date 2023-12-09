@@ -5,7 +5,9 @@ Forge: 47.2.6
 
 Mods
   ✔ Added
+    - CERBON's Better TOtem of Undying (CerbonXD)
     - Create Editions (TheDukeOfCamorr)
+    - FastLeadDecay (olafskiii)
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
@@ -50,6 +52,7 @@ Mods
     - Animatica Reforged
     - Blossom Blade
     - Building Gadgets
+    - Charm of Undying
     - Chat Colors
     - Crash Utilities
     - Create Armory
