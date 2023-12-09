@@ -6,11 +6,25 @@ Forge: 47.2.6
 Mods
   ✔ Added
     - CERBON's Better TOtem of Undying (CerbonXD)
+    - CTOV - Beautify  Compatibility Pack (ChoiceTheorem)
+    - CTOV - Chef's Delight  Compatibility Pack (ChoiceTheorem)
+    - CTOV - Farmer Delight Compatibility Pack (ChoiceTheorem)
+    - CTOV - Friends and Foes  Compatibility Pack (ChoiceTheorem)
+    - CTOV - Villagers Plus Compat
     - Create Editions (TheDukeOfCamorr)
     - FastLeadDecay (olafskiii)
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
+    - Paxi (YUNGNICKYOUNG)
+    - Repurposed Structures - Bountiful Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Chef's Delight Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Farmer's Delight Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Friend's and Foes Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - VillagerPlus Compat Datapack (telepathicgrunt)
+    - Sky Villages - Farmer's Delight Compat (Aureljz)
+    - Sky Villages - Supplementaries Compat (Aureljz)
+    - Sky Villages - Waystone Compat (Aureljz, diamondtown_)
 
   ⭕ Updated
     - Armor Statues
@@ -60,6 +74,7 @@ Mods
     - Create Jetpack
     - Create Stuff & Additions
     - Falling Trees
+    - Endless Biomes
     - Hang Glider
     - Item Borders
     - Item Filters
@@ -69,6 +84,7 @@ Mods
     - Showcase Item
     - Simple Voice Chat
     - Straw Statues
+    - When Dungeons Arise
     - Xaero's Minimap
     - Xaero's Plus
     - Xaero's Worldmap
