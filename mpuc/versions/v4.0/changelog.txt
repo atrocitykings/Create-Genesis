@@ -7,10 +7,10 @@ Mods
   ✔ Added
     - Create Editions (TheDukeOfCamorr)
     - FastLeadDecay (olafskiii)
+    - Global Packs (JTK222)
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
-    - Paxi (YUNGNICKYOUNG)
     - CERBON's Better TOtem of Undying (CerbonXD)
     - CTOV - Beautify  Compatibility Pack (ChoiceTheorem)
     - CTOV - Chef's Delight  Compatibility Pack (ChoiceTheorem)
