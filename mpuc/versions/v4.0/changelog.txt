@@ -12,6 +12,7 @@ Mods
     - Journey Map (techbrew)
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
+    - Better End Cities (TheArchitects777)
     - CERBON's Better TOtem of Undying (CerbonXD)
     - CTOV - Beautify  Compatibility Pack (ChoiceTheorem)
     - CTOV - Chef's Delight  Compatibility Pack (ChoiceTheorem)
