@@ -12,6 +12,7 @@ Mods
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
     - CERBON's Better TOtem of Undying (CerbonXD)
+    - Better End Cities (TheArchitects777)
     - CTOV - Beautify  Compatibility Pack (ChoiceTheorem)
     - CTOV - Chef's Delight  Compatibility Pack (ChoiceTheorem)
     - CTOV - Farmer Delight Compatibility Pack (ChoiceTheorem)
@@ -24,7 +25,6 @@ Mods
     - Repurposed Structures - VillagerPlus Compat Datapack (telepathicgrunt)
     - Sky Villages - Farmer's Delight Compat (Aureljz)
     - Sky Villages - Supplementaries Compat (Aureljz)
-    - Sky Villages - Waystone Compat (Aureljz, diamondtown_)
 
   ⭕ Updated
     - Armor Statues
@@ -78,12 +78,14 @@ Mods
     - Hang Glider
     - Item Borders
     - Item Filters
+    - Nullscape
     - Open Parties and Claims
     - Right Click Harvest
     - Shield Expansion
     - Showcase Item
     - Simple Voice Chat
     - Straw Statues
+    - Terralith
     - When Dungeons Arise
     - Xaero's Minimap
     - Xaero's Plus
@@ -95,6 +97,6 @@ Configs
 
 Fixes
   - Removed Almost Unified because of Create recipes not being visible in JEI
-  - 
+  - Added a few datapacks for better mod compatability
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
