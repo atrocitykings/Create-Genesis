@@ -5,6 +5,7 @@ Forge: 47.2.6
 
 Mods
   ✔ Added
+    - B. F. End Cities (Anthxny)
     - Create Editions (TheDukeOfCamorr)
     - FastLeadDecay (olafskiii)
     - Global Packs (JTK222)
@@ -12,7 +13,6 @@ Mods
     - Journey Map Integrations (frankv_)
     - Journey Map Teams (Mysticdrew)
     - CERBON's Better TOtem of Undying (CerbonXD)
-    - Better End Cities (TheArchitects777)
     - CTOV - Beautify  Compatibility Pack (ChoiceTheorem)
     - CTOV - Chef's Delight  Compatibility Pack (ChoiceTheorem)
     - CTOV - Farmer Delight Compatibility Pack (ChoiceTheorem)
