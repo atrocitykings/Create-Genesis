@@ -6,6 +6,7 @@ Forge: 47.2.6
 Mods
   ✔ Added
     - Create Structures
+    - FTB XMod Compat
 
   ⭕ Updated
     - Balm
