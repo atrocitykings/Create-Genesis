@@ -1,1 +1,28 @@
 Create Structures
+
+Minecraft: 1.20.1
+Forge: 47.2.6
+
+Mods
+  ✔ Added
+    - Create Structures
+
+  ⭕ Updated
+    - Balm
+    - Collective
+    - CreativeCore
+    - Easy Villagers
+    - Embeddium
+    - Extra Compat
+    - ModernFix
+    - Sophisticated Backpacks
+    - Sophisticated Core
+    - Supplementaries
+    - Titanium
+    - Waystone
+
+  ❌ Removed
+    - Loot Integrations
+    - JourneyMap Teams
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
