@@ -23,7 +23,12 @@ Mods
     - Waystone
 
   ❌ Removed
-    - Loot Integrations
+    - Additional Lanterns
     - JourneyMap Teams
+    - Loot Integrations
+
+Configs
+  ⭕ Updated
+    - Mindful Darkness
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
