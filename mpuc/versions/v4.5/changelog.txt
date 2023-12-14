@@ -6,6 +6,7 @@ Forge: 47.2.6
 Mods
   ✔ Added
     - Create Structures (FusionSwarly)
+    - Dark Mode Everywhere (Buuz135)
     - Extreme sound muffler (LeoBeliik)
     - FastFurnace (Shadows_of_Fire)
     - FastWorkbench (Shadows_of_Fire)
@@ -38,10 +39,11 @@ Mods
     - JourneyMap Teams
     - Loot Integrations
     - Magnesium/Rubidium Extras
+    - Mindful Darkness
     - YUNG's Menu Tweaks
 
 Configs
   ⭕ Updated
-    - Mindful Darkness
+    - 
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
