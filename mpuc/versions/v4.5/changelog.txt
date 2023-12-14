@@ -5,7 +5,7 @@ Forge: 47.2.6
 
 Mods
   ✔ Added
-    - Create Structures
+    - Create Structures (FusionSwarly)
     - Extreme sound muffler (LeoBeliik)
     - FastFurnace (Shadows_of_Fire)
     - FastWorkbench (Shadows_of_Fire)
@@ -38,6 +38,7 @@ Mods
     - JourneyMap Teams
     - Loot Integrations
     - Magnesium/Rubidium Extras
+    - YUNG's Menu Tweaks
 
 Configs
   ⭕ Updated
