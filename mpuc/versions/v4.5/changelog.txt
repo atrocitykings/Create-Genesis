@@ -6,7 +6,13 @@ Forge: 47.2.6
 Mods
   ✔ Added
     - Create Structures
-    - FTB XMod Compat
+    - Extreme sound muffler (LeoBeliik)
+    - FastFurnace (Shadows_of_Fire)
+    - FastWorkbench (Shadows_of_Fire)
+    - FTB Essentials (FTB)
+    - FTB Ultimine (FTB)
+    - FTB XMod Compat (FTB)
+    - Embeddium++ (SrRapero720)
 
   ⭕ Updated
     - Balm
@@ -15,7 +21,10 @@ Mods
     - Easy Villagers
     - Embeddium
     - Extra Compat
+    - Friends & Foes
+    - Iceberg
     - ModernFix
+    - Oculus
     - Sophisticated Backpacks
     - Sophisticated Core
     - Supplementaries
@@ -24,8 +33,11 @@ Mods
 
   ❌ Removed
     - Additional Lanterns
+    - Additional Structures
+    - Bygone Nether
     - JourneyMap Teams
     - Loot Integrations
+    - Magnesium/Rubidium Extras
 
 Configs
   ⭕ Updated
