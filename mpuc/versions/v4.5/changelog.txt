@@ -1,4 +1,4 @@
-Create Structures
+Generation changes! This update introduces many generation changes. Old worlds are still compatible but the new structures will only show up in chunks that have not been loaded before.
 
 Minecraft: 1.20.1
 Forge: 47.2.6
