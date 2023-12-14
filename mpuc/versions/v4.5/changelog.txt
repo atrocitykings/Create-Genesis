@@ -5,8 +5,11 @@ Forge: 47.2.6
 
 Mods
   ✔ Added
+    - AI Improvements (QueenOfMissiles)
+    - Awesome Dungeon (jtl_elisa)
     - Create Structures (FusionSwarly)
     - Dark Mode Everywhere (Buuz135)
+    - Ding (ohaiiChun)
     - Embeddium++ (SrRapero720)
     - Extreme sound muffler (LeoBeliik)
     - FastFurnace (Shadows_of_Fire)
@@ -14,7 +17,17 @@ Mods
     - FTB Essentials (FTB)
     - FTB Ultimine (FTB)
     - FTB XMod Compat (FTB)
+    - Nullscape (Starmute)
     - Sparse Structures Reforged (pOtAto__bOy)
+    - Create Automations (riehlgamer247)
+    - CTOV - Create: Structures (ChoiceTheorem)
+    - Repurposed Structures - Better Desert Temples Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Better Dungeons Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Better Jungle Temples Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Better Oceam Monuments Compat Datapack (telepathicgrunt)
+    - Repurposed Structures - Better Strongholds Compat Dataack (telepathicgrunt)
+    - Repurposed Structures - Better Witch Huts Compat Datapack (telepathicgrunt)
+    - VillagersPlus - Supplementaries Compatability
 
   ⭕ Updated
     - Balm
@@ -37,6 +50,8 @@ Mods
     - Additional Lanterns
     - Additional Structures
     - Bygone Nether
+    - Create Compact Exp
+    - Iceberg
     - JourneyMap Teams
     - Loot Integrations
     - Magnesium/Rubidium Extras
@@ -45,6 +60,7 @@ Mods
 
 Configs
   ⭕ Updated
-    - 
+    - Create
+    - Waystones
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
