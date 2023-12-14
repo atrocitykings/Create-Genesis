@@ -7,13 +7,14 @@ Mods
   ✔ Added
     - Create Structures (FusionSwarly)
     - Dark Mode Everywhere (Buuz135)
+    - Embeddium++ (SrRapero720)
     - Extreme sound muffler (LeoBeliik)
     - FastFurnace (Shadows_of_Fire)
     - FastWorkbench (Shadows_of_Fire)
     - FTB Essentials (FTB)
     - FTB Ultimine (FTB)
     - FTB XMod Compat (FTB)
-    - Embeddium++ (SrRapero720)
+    - Sparse Structures Reforged (pOtAto__bOy)
 
   ⭕ Updated
     - Balm
