@@ -32,7 +32,9 @@ Mods
   ⭕ Updated
     - Balm
     - Collective
+    - Connectivity
     - CreativeCore
+    - Create: Power Loader
     - Easy Villagers
     - Embeddium
     - Extra Compat
@@ -40,6 +42,7 @@ Mods
     - Iceberg
     - ModernFix
     - Oculus
+    - Philip's Ruims
     - Sophisticated Backpacks
     - Sophisticated Core
     - Supplementaries
