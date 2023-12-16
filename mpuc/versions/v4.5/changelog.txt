@@ -7,7 +7,6 @@ Mods
   ✔ Added
     - AI Improvements (QueenOfMissiles)
     - Awesome Dungeon (jtl_elisa)
-    - Create Structures (FusionSwarly)
     - Dark Mode Everywhere (Buuz135)
     - Ding (ohaiiChun)
     - Embeddium++ (SrRapero720)
@@ -20,7 +19,6 @@ Mods
     - Nullscape (Starmute)
     - Sparse Structures Reforged (pOtAto__bOy)
     - Create Automations (riehlgamer247)
-    - CTOV - Create: Structures (ChoiceTheorem)
     - Repurposed Structures - Better Desert Temples Compat Datapack (telepathicgrunt)
     - Repurposed Structures - Better Dungeons Compat Datapack (telepathicgrunt)
     - Repurposed Structures - Better Jungle Temples Compat Datapack (telepathicgrunt)
@@ -59,6 +57,7 @@ Mods
     - Iceberg
     - JourneyMap Teams
     - Loot Integrations
+    - Magnesium/Rubidium Dynamic Lights
     - Magnesium/Rubidium Extras
     - Mindful Darkness
     - YUNG's Menu Tweaks
