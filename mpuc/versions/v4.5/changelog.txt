@@ -52,6 +52,7 @@ Mods
   ❌ Removed
     - Additional Lanterns
     - Additional Structures
+    - Bountiful
     - Bygone Nether
     - Create Compact Exp
     - Iceberg
@@ -61,6 +62,7 @@ Mods
     - Magnesium/Rubidium Extras
     - Mindful Darkness
     - YUNG's Menu Tweaks
+    - Repurposed Structures - Bountiful Compat Datapack (telepathicgrunt)
 
 Configs
   ⭕ Updated
