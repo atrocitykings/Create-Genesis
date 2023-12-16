@@ -30,7 +30,9 @@ Mods
     - VillagersPlus - Supplementaries Compatability
 
   ⭕ Updated
+    - Alex's Mobs
     - Balm
+    - Bookshelf
     - Collective
     - Connectivity
     - CreativeCore
