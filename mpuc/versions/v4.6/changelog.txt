@@ -1,0 +1,31 @@
+Create Structures
+
+Minecraft: 1.20.1
+Forge: 47.2.17
+
+Mods
+  ✔ Added
+    - Create Structures (FusionSwarly)
+    - What Are They Up To [WATUT] (Corosus)
+    - CTOV - Create: Structures (ChoiceTheorem)
+
+  ⭕ Updated
+    - Beautified Chat [Server]
+    - Collective
+    - Create Enchantment Industry
+    - Cusios API
+    - Easy Elytra Takeoff
+    - Friends&Foes
+    - Healing Campfire
+    - Kotlin
+    - Macaw's Windows
+    - Supplementaries
+    - Villager Names
+    - Waystones
+
+  ❌ Removed
+    - Ping Wheel
+    - Journey Map
+    - Joyrney Map Integrations
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
