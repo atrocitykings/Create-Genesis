@@ -6,19 +6,24 @@ Forge: 47.2.17
 Mods
   ✔ Added
     - Create Structures (FusionSwarly)
+    - Create Stuff & Additions (Furti_Two)
     - What Are They Up To [WATUT] (Corosus)
     - CTOV - Create: Structures (ChoiceTheorem)
 
   ⭕ Updated
     - Beautified Chat [Server]
     - Collective
+    - CraftPresence
     - Create Enchantment Industry
+    - Creative core
     - Cusios API
     - Easy Elytra Takeoff
     - Friends&Foes
     - Healing Campfire
+    - Just Enough Breeding
     - Kotlin
     - Macaw's Windows
+    - Patchouli
     - Supplementaries
     - Villager Names
     - Waystones
