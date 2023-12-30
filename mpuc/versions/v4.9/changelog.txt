@@ -3,9 +3,10 @@ Forge: 47.2.17
 
 Mods
   ✔ Added
-    - Create Central Kitchen
-    - Create Ore Excavation
-    - Sophisticated Storage
+    - Create Central Kitchen (DrangonPlus)
+    - Create Ore Excavation (tom54541)
+    - Create: Villagerology (abhishekrishnan)
+    - Sophisticated Storage (P3pp3rF1y)
 
   ⭕ Updated
     - Bookshelf
