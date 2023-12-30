@@ -5,6 +5,7 @@ Mods
   ✔ Added
     - Create Central Kitchen (DrangonPlus)
     - Create Ore Excavation (tom54541)
+    - Dynmap (Mikeprimm)
     - Sophisticated Storage (P3pp3rF1y)
 
   ⭕ Updated
@@ -40,6 +41,8 @@ Mods
     - Villager Names
 
   ❌ Removed
+    - Create Structures
+    - CTOV - Create Strucutes Compatability pack
     - Iron Chest
 
 ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
