@@ -1,0 +1,45 @@
+Minecraft: 1.20.1
+Forge: 47.2.17
+
+Mods
+  ✔ Added
+    - Create Central Kitchen
+    - Create Ore Excavation
+    - Sophisticated Storage
+
+  ⭕ Updated
+    - Bookshelf
+    - Canary
+    - Cloth Config API
+    - Collective
+    - CoroUtil
+    - Create: Power Loader
+    - CreativeCore
+    - Cupboard
+    - Curios API
+    - Embeddium
+    - Enchantment Description
+    - Every Compat
+    - Extra Compat
+    - Galosphere
+    - Jade
+    - Just Enough Breeding
+    - Just Enough Effect Descriptions
+    - Kotlin for Forge
+    - MidnightLib
+    - ModernFix
+    - Moonlight Lib
+    - Resourceful Lib
+    - Snow Under Trees
+    - Sophisticated Backpacks
+    - Sophisticated Core
+    - Sound Physics Remastered
+    - Supplementaries
+    - Supplementaries Squared
+    - Titanium
+    - Villager Names
+
+  ❌ Removed
+    - Iron Chest
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
