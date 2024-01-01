@@ -10,10 +10,13 @@ Mods
     - Double Doors (Serilum)
     - Leaves Be Gone (Fuzs)
     - Log Begone (AzureDoomC)
+    - Open Parties and Claims (xaero96)
     - Roughly Enough Items (shedaniel)
     - Roughly Enough Professions (Mrbysco)
     - Roughly Enough Resources (theorbagain)
-    - Roughly Enough Items Server Component !!!!!!!!!!!
+    - Xaero's Minimap (xaero96)
+    - Xaero's Worldmap (xaero96)
+    - XaeroPlus (CoinRS)
 
   ⭕ Updated
     - CERBORN'S Better Totem of Undying
@@ -33,6 +36,8 @@ Mods
   ❌ Removed
     - Dark Mode Everywhere
     - Fast Leaf Decay
+    - FTB Chunks
+    - 
     - Just Enough Breeding
     - Just Enough Effect Descriptions
     - Just Enough Items
