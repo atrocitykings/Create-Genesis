@@ -42,8 +42,10 @@ Mods
     - What Are They Up To
 
   ❌ Removed
+    - Chimes
     - Dark Mode Everywhere
     - Fast Leaf Decay
+    - First-Person Model
     - FTB Chunks
     - Just Enough Breeding
     - Just Enough Effect Descriptions
