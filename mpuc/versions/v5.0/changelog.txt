@@ -1,1 +1,42 @@
-QUEST UPDATE
+Minecraft: 1.20.1
+Forge: 47.2.17
+
+Mods
+  ✔ Added
+    - Almost Unified (AlmostReliable)
+    - Bad Packets (badasintended)
+    - Better Than Mending (legobmw99)
+    - Dynamic Trim (Andrew6rant)
+    - Double Doors (Serilum)
+    - Leaves Be Gone (Fuzs)
+    - Log Begone (AzureDoomC)
+    - Roughly Enough Items (shedaniel)
+    - Roughly Enough Professions (Mrbysco)
+    - Roughly Enough Resources (theorbagain)
+    - Roughly Enough Items Server Component !!!!!!!!!!!
+
+  ⭕ Updated
+    - CERBORN'S Better Totem of Undying
+    - Collective
+    - CoroUtil
+    - Entity Model Features
+    - Entity Texture Features
+    - Every Compat
+    - Functional Storage
+    - Oculus
+    - Philip's Ruins
+    - Skin Layers 3D
+    - Supplementaries
+    - VillagerPlus
+    - What Are They Up To
+
+  ❌ Removed
+    - Dark Mode Everywhere
+    - Fast Leaf Decay
+    - Just Enough Breeding
+    - Just Enough Effect Descriptions
+    - Just Enough Items
+    - Just Enough Professionals
+    - Just Enough Resources
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
