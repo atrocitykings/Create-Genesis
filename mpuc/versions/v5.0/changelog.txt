@@ -1,3 +1,5 @@
+QUESTS! Introduced a quest line for create to teach new players how to progress.
+
 Minecraft: 1.20.1
 Forge: 47.2.17
 
