@@ -15,6 +15,7 @@ Mods
     - Roughly Enough Items (shedaniel)
     - Roughly Enough Professions (Mrbysco)
     - Roughly Enough Resources (theorbagain)
+    - Simple Voice Chat (henkelmax)
     - Xaero's Minimap (xaero96)
     - Xaero's Worldmap (xaero96)
     - XaeroPlus (CoinRS)
