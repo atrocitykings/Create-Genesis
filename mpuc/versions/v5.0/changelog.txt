@@ -5,12 +5,13 @@ Mods
   ✔ Added
     - Almost Unified (AlmostReliable)
     - Bad Packets (badasintended)
-    - Better Than Mending (legobmw99)
+    - Create Deco (talrey)
     - Dynamic Trim (Andrew6rant)
     - Double Doors (Serilum)
     - Leaves Be Gone (Fuzs)
     - Log Begone (AzureDoomC)
     - Open Parties and Claims (xaero96)
+    - Right Click Harvest (jamalam360)
     - Roughly Enough Items (shedaniel)
     - Roughly Enough Professions (Mrbysco)
     - Roughly Enough Resources (theorbagain)
@@ -37,7 +38,6 @@ Mods
     - Dark Mode Everywhere
     - Fast Leaf Decay
     - FTB Chunks
-    - 
     - Just Enough Breeding
     - Just Enough Effect Descriptions
     - Just Enough Items
