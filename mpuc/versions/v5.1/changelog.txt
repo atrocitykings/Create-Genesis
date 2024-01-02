@@ -4,6 +4,7 @@ Forge: 47.2.17
 Mods
   ✔ Added
     - Chunky (pop4959)
+    - Create: Connected (Lysine)
     - Create: Framed (DakotaPrideModding)
     - CullLessLeavers Reforged (ccr5ft3r)
     - Forge CIT (tfarecnim)
