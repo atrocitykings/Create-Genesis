@@ -70,7 +70,16 @@
         "releasedAt": 1704130560000,
         "promotions": {
             "downloads": {
-                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-genesis"
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-genesis/files/4999650"
+            }
+        }
+      },
+      {
+        "id": "v5.1",
+        "releasedAt": 1704186000000,
+        "promotions": {
+            "downloads": {
+                "curseforge": "https://legacy.curseforge.com/minecraft/modpacks/create-genesis/files/"
             }
         }
       }
