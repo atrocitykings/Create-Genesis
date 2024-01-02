@@ -1,1 +1,28 @@
-Fixes for various mods
+Minecraft: 1.20.1
+Forge: 47.2.17
+
+Mods
+  ✔ Added
+    - Chunky (pop4959)
+    - Create: Framed (DakotaPrideModding)
+    - CullLessLeavers Reforged (ccr5ft3r)
+    - Forge CIT (tfarecnim)
+    - Ok Zoomer Forge (matyrobbrt)
+    - Packet Fixer (TonimatesDEV)
+    - Resource Pack Overrides (Fuzs)
+    - Universal Bone Meal (Fuzs)
+    - Vertical Slabs Compat (MehVahdJukaar)
+    - Icons - Xaero Minimap X Fresh Animations (SilverstarShiro)
+
+  ⭕ Updated
+    - Entity Texture Features
+    - Modpack Update Checker
+    - Skin Layers 3D
+    - Repurposed Structures - Better Jungle Temples Compat
+
+  ❌ Removed
+    - Canary
+    - Dynmap
+    - Sound Physics Remastered (Caused ghost mechanical belts)
+
+ALWAYS MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING
