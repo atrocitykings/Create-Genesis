@@ -1,11 +1,9 @@
 <p align="center" dir="auto"><a href="https://"><img src="https://i.imgur.com/rVdaULj.png"></a></p>
 
-
-### <p align="center" dir="auto"> A Create focused modpack.</p>
-
 <p align="center" dir="auto"> <a> <img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg"><a/> <a href=https://www.curseforge.com/minecraft/modpacks/create-genesis><img alt="curseforge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg"><a/> <a href=https://discord.gg/P9kSVecGb5><img alt="discord-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"> </p>
 
 ***
+### <p align="center" dir="auto"> A Create focused modpack.</p>
 ### 🏗️ Create
 
  - Create: Steam 'n' Rails
