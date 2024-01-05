@@ -1,8 +1,8 @@
 This modpack will now follow Semantic Versioning 2.0. Given a version number MAJOR.MINOR.PATCH.
 Major will only be changed when game changing mods are added or removed, minor will include mod updates, and patch will include things like bug fixes.
-All previos versions of the modpack have been archived and it is recommened you install v1.0.0
+All previous versions of the modpack have been archived and it is recommended you install v1.0.0
 
-Introduing Essential Mod. The main reason is so players can host their single player world on their PC without any hassels and play with friends easily. Essential also has built in Simple Voice Chat support.
+Introducing Essential Mod. The main reason is so players can host their single player world on their PC without any hassles and play with friends easily. Essential also has built in Simple Voice Chat support.
 V1.0.0 Introduces controller support, now you can enjoy Create Genesis on devices like the Steam Deck.
 
 A Full modlist is available from https://www.modpackindex.com/modpack/73108/create-genesis. 
