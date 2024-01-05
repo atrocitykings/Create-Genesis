@@ -8,3 +8,6 @@ V1.0.0 Introduces controller support, now you can enjoy Create Genesis on device
 A Full modlist is available from https://www.modpackindex.com/modpack/73108/create-genesis. 
 
 Now that the modpack is stable, no major changes will be made unless an issue is found. If you find any bugs please report via the menu.
+
+
+PREVIOUS WORLDS ARE STILL COMPATIBLE BUT ALWAYS BACKUP YOUR WORLD BEFORE UPDATING
