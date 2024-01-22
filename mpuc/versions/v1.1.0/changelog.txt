@@ -6,6 +6,49 @@ Forge: 47.2.17
     - 
 
   ###⭕ Updated
+    - Better Archeology
+    - Block Runner
+    - CERBON's Better Beacons
+    - ChoiceTheorem's Overhauled Vilalges
+    - Create Deco
+    - Create: Connected
+    - Create: Garnished
+    - Create: Power Loader
+    - Creative Core
+    - Curios API
+    - Decorative Blocks
+    - Dynamic Trim
+    - Embeddium
+    - Embeddium++
+    - Enchantment Descriptions
+    - Euphoria Patcher
+    - Every Compat
+    - Extra Compat
+    - FancyMenu
+    - Farmer's Delight
+    - Friends&Foes
+    - Friends&Foes (Copper)
+    - FTB Quests
+    - GeckoLib
+    - Kiwi
+    - Konkrete
+    - Macaw's Fences
+    - Magnum Torch
+    - Miner's Delight
+    - ModernFix
+    - Moonlight
+    - Necronomicon
+    - Not Enough Crashes
+    - Philip's RUins
+    - Player Revive
+    - Puzzles Lib
+    - Skin Layers 3D
+    - Smarter Farmers
+    - Snow! Real Magic
+    - Sparse Structures Reforged
+    - Supplementaries
+    - Vertical Slab Compat
+    - XaeroPlus
     - Modpack Update Checker
 
   ###❌ Removed
