@@ -21,6 +21,8 @@ Forge: 47.2.17
     - Embeddium
     - Embeddium++
     - Enchantment Descriptions
+    - Entity Model Features
+    - Entity Texture Features
     - Euphoria Patcher
     - Every Compat
     - Extra Compat
